@@ -3,4 +3,5 @@
 My name is Erdni Zungruev. I have a strong passion for frontend development.
 # Portfolio
 * [Amazon](https://github.com/shagidzun/amazon-project) (not finished yet);
+* [Todo app](https://github.com/shagidzun/simple-todo);
 * other projects (TBD).
