@@ -1,2 +1,2 @@
 # rsschool-cv
-My [CV](https://github.com/shagidzun/rsschool-cv/blob/gh-pages/cv.md)
+My [CV](https://shagidzun.github.io/rsschool-cv/cv)
